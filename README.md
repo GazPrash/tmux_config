@@ -1,2 +1,3 @@
 # My TMUX Config
-![image](https://github.com/user-attachments/assets/516591bc-4bab-4e7f-aaa7-986b902ff902)
+![image](https://github.com/user-attachments/assets/3c750321-a033-4b52-8964-e256aa7583b6)
+
